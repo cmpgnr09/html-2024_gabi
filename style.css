@@ -12,3 +12,12 @@ body{
     background-color: rgba(119, 9, 170, 0.5);
     color: black;
 }
+section{
+ background-color: aqua;
+ margin:50px;
+ display: flex;
+}
+
+
+
+
