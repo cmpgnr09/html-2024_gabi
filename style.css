@@ -4,6 +4,7 @@ background-color: #6E3EDC;
 text-size-adjust: 85px;
 justify-content: center;
 border:solid 1px rgb(#DB4D92);
+padding: 20px;
 }
 
 
@@ -17,7 +18,7 @@ section{
  margin:50px;
  display: block;
  
- padding: left;
+ 
 }
 
 
