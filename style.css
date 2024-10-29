@@ -1,22 +1,22 @@
 header{
 margin:45px ;
-background-color: blueviolet;
+background-color: #6E3EDC;
 text-size-adjust: 85px;
 justify-content: center;
-
+border:solid 3px rgb(#DB4D92);
 }
 
 
 
 body{
-    background-color: rgba(119, 9, 170, 0.5);
+    background-color: #D435DB;
     color: black;
 }
 section{
  background-color: rgb(28, 190, 190);
  margin:50px;
  display: block;
- border: ;
+ 
  padding: left;
 }
 
