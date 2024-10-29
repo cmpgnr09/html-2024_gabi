@@ -13,9 +13,11 @@ body{
     color: black;
 }
 section{
- background-color: aqua;
+ background-color: rgb(28, 190, 190);
  margin:50px;
  display: flex;
+ border: ;
+ padding: left;
 }
 
 
